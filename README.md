@@ -1,3 +1,3 @@
 [th](th.json)
 
-+ !reslist "https://raw.githubusercontent.com/akovtak/iambecomedeath/main/th.json"
++ !reslist "https://akovtak.github.io/iambecomedeath/th.json"
