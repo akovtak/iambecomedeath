@@ -1,0 +1,6 @@
+[ 
+  { "url":"iambecomedeath/i.mp3","type":"audio","bank":"iambecomedeath","n":0} ,
+  { "url":"iambecomedeath/am.mp3","type":"audio","bank":"iambecomedeath","n":1},
+  { "url":"iambecomedeath/become.mp3","type":"audio","bank":"iambecomedeath","n":2},
+  { "url":"iambecomedeath/death.mp3","type":"audio","bank":"iambecomedeath","n":3}
+]
